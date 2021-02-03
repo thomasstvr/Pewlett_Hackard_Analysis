@@ -11,12 +11,15 @@ During the module, we took the time to build the “current_emp” table. This table
 The challenge instructions fail to account for employees who are no longer with the company. This takes the soon to be retired from 133,776 to 72,458. This is a huge oversight as the sum of all employees in the “retiring_titles” table equals 90,398.
 
 ![](https://github.com/thomasstvr/Pewlett_Hackard_Analysis/blob/main/Resources/retiring_titles.png)
+
 Employees expected to soon retire (based on age) with hire date and current employment omitted (as per the Challenge instructions).
 
 ![](https://github.com/thomasstvr/Pewlett_Hackard_Analysis/blob/main/Resources/retiring_titles_age.png)
+
 With current employment taken into consideration. 
 
 ![](https://github.com/thomasstvr/Pewlett_Hackard_Analysis/blob/main/Resources/retiring_titles_age_hired_date.png)
+
 With current employment and hire date taken into consideration for a total of 33,118 employees.
 
 ### Analysis
