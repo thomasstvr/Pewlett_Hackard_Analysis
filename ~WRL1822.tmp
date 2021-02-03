@@ -4,11 +4,11 @@ Pewlett Hackard (PH) is a large tech company who employs thousands of people, ma
 This analysis is aimed to help PH in their decision making by looking at the numbers. With this information, they now know just how many employees will be at retirement age, what department they work for and more.
 
 ## Results 
-While trying to dig up some statistics to include in this ReadMe file, I came across something interesting. It appears the Challenge instructions have omitted an important factor which has led to an inaccurate analysis. The Challenge instructions failed to include the “to_date” parameter which allows us to sort out past employees.
+While trying to dig up some statistics to include in this ReadMe file, I came across something interesting. It appears the Challenge instructions are not accurate which has then led to a bad analysis. 
 
-During the module, we took the time to build the “current_emp” table. This table contains all the current PH employees who were born between 1952 and 1955 and were hired between 1985 and 1988. The Challenge has us build our data on the “employees” table which contains employees who are no longer employed with PH.
+During the module, we took the time to build the “current_emp” table. This table contains all the current PH employees who were born between 1952 and 1955 and were hired between 1985 and 1988. The Challenge has us build our data on the “employees” table which contains many who are no longer employed with PH.
 
-By filtering out all the ex-employees, the total falls from 90,398 to 72,458 soon to be retired employees. If we also include date hired as a filter (1985-1988), this number falls to 33,118.
+The challenge instructions fail to account for employees who are no longer with the company. This takes the soon to be retired from 133,776 to 72,458. This is a huge oversight as the sum of all employees in the “retiring_titles” table equals 90,398.
 
 ![](https://github.com/thomasstvr/Pewlett_Hackard_Analysis/blob/main/Resources/retiring_titles.png)
 
@@ -23,7 +23,7 @@ With current employment taken into consideration.
 With current employment and hire date taken into consideration for a total of 33,118 employees.
 
 ### Analysis
-While we obviously cannot include employees no longer with the company, we do get to decide if hire date should be included in the analysis. We chose not to include hire date as we would expect one’s age to affect retirement more so than how long one has been with PH.
+While we obviously cannot include employees no longer with the company, we do get to decide if hire date should be included in the analysis. I will choose not to include hire date as I would expect one’s age to affect retirement more so than how long one has been with PH.
 
 Looking at the 2nd table shown above, we see that a major majority of the soon to be retirees are senior staff members. This means that PH will have to train or hire employees who are experienced in the given field. These senior staff members account for 21.2% of the total staff at PH (total employees equaling 240,124). This will be a very daunting task.
 
@@ -35,5 +35,3 @@ The precise age of the mentorship seems foolish to me. I would advise to base th
 
 #Summary 
 30.2% (72,458) of the employees at PH are closing in on retirement age and many of them are senior employees. The current mentor program will not suffice as the qualifications are too narrow. PH has a problem on their hands and needs to get the ball rolling now, first by hiring thousands of employees and second by expanding their mentor program to teach current or future employees. 
-
-
