@@ -22,7 +22,7 @@ With current employment taken into consideration.
 
 With current employment and hire date taken into consideration for a total of 33,118 employees.
 
-### Analysis
+## Analysis
 While we obviously cannot include employees no longer with the company, we do get to decide if hire date should be included in the analysis. We chose not to include hire date as we would expect one’s age to affect retirement more so than how long one has been with PH.
 
 Looking at the 2nd table shown above, we see that a major majority of the soon to be retirees are senior staff members. This means that PH will have to train or hire employees who are experienced in the given field. These senior staff members account for 21.2% of the total staff at PH (total employees equaling 240,124). This will be a very daunting task.
@@ -33,7 +33,7 @@ While these numbers are staggering, PH does have a plan in place. Mentors who ar
 
 The precise age of the mentorship seems foolish to me. I would advise to base the mentorship on how long an employee has been with the company, it might also be wise to add a minimum age as well. As it exists, the mentor program will struggle at best. 1098 senior employees qualify while 50,842 are closing in on retirement. The program’s criteria simply need to be expanded for it to be a success.   
 
-# Summary 
+## Summary 
 30.2% (72,458) of the employees at PH are closing in on retirement age and many of them are senior employees. The current mentor program will not suffice as the qualifications are too narrow. PH has a problem on their hands and needs to get the ball rolling now, first by hiring thousands of employees and second by expanding their mentor program to teach current or future employees. 
 
 
